@@ -21,7 +21,7 @@ _A clean, fully responsive landing page layout_
 ## 📁 Project Structure
 
 ```
-landing-page/
+odin-landingpage/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # Main stylesheet
